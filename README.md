@@ -4,4 +4,4 @@ Remastered version of CrosslineOS since I lost the original source code for the 
 
 Security focused OS
 
-[-] Secure Bootloader
+- [ ] Secure Bootloader
