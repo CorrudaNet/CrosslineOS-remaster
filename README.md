@@ -9,3 +9,4 @@ Remastered version of CrosslineOS since I lost the original source code for the 
 
 Secure bootloader that cannot be terminated
 - [ ] Secure Bootloader
+- [ ] Secure login menu
